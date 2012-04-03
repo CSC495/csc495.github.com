@@ -133,6 +133,7 @@ textarea {
 }
 body {
   margin: 0;
+  padding-top: 80px;
   font-family: 'Ubuntu', Tahoma, sans-serif;
   font-size: 13px;
   line-height: 18px;
